@@ -1,6 +1,6 @@
 let accessToken;
 const clientId = '9e64f661ce6d43d6ae763d38aa4de4a0';
-const redirectUri = 'http://jamming-capstone.surge.sh';
+const redirectUri = 'https://jammingplaylist.netlify.app';
  
 const Spotify = {
     getAccessToken() {

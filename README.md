@@ -30,7 +30,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Live Demo
 
-[Live Demo Link](https://jamming.netlify.app/)
+[Live Demo Link](https://jammingplaylist.netlify.app)
 
 ## Built With
 
